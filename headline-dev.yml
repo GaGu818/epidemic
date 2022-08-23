@@ -29,7 +29,7 @@ eureka:
 #  # 配置Mybatis数据返回类型别名（默认别名为类名）
 #  #type-aliases-package: com.kerry.category.pojo
 #  configuration:
-#    # 自动驼峰命名
+#    # 
 #    map-underscore-to-camel-case: true
 
 #feign:
